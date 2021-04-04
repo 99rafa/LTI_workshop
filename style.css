@@ -1,0 +1,61 @@
+body {
+    text-align:center;
+    padding-top:10%;
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    font-family:Verdana;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 70px;
+    text-shadow: 3px 3px 3px grey;
+}
+
+.logo {
+    width: 2%;
+    vertical-align: -25%;
+}
+
+.logo:hover {
+    opacity: 0.7;
+}
+
+#lti {
+    background-color: white;
+}
+ 
+.footer {
+    position: absolute;
+    bottom: 10px;
+    height: 2.5rem;
+
+}
+
+
+.icon {
+    font-size: 1.5em;
+    padding: 10px 10px 10px 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    background-color: black;
+    border-color: black;
+    margin-right: 3px;
+    color:white;
+}
+
+.icon:hover {
+    background-color: white;
+    border-color: white;
+    color:black;
+}
+
+.welcome {
+    font-size: 35px;
+    text-shadow: 3px 3px 3px black;
+    position: absolute;
+    top: 2px;
+    height: 2.5rem;
+    padding-left: 20px;
+}
